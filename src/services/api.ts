@@ -5,7 +5,7 @@ import { toast } from 'react-toastify';
 import browserHistory from '../browser-history';
 import { AppRoute } from '../const';
 
-const BACKEND_URL = 'https://16.design.pages.academy/six-cities';
+const BACKEND_URL = 'https://16.design.htmlacademy.pro/six-cities';
 //const BACKEND_URL = 'https://6.react.htmlacademy.pro/six-cities';
 const REQUEST_TIMEOUT = 5000;
 
